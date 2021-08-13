@@ -8,10 +8,9 @@ int c4= round(random(#6B52D1, #7A65D1));
 int c5= round(random(#AD3D31, #AF1302));
 int c6= round(random(#AD3D31, #AF1302));
 
-
 color c1, c2;
 
-
+//https://youtu.be/YSTNniBEEJ4 
 
 void setup() {
 
